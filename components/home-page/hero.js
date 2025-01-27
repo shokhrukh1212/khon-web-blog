@@ -6,7 +6,7 @@ function Hero() {
       <div className={classes.image}>
         <Image
           src="/images/site/my_image.jpg"
-          alt="An image showing Max"
+          alt="An image showing Shokhrukh"
           width={300}
           height={300}
         />
